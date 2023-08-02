@@ -8,4 +8,4 @@ const Feature = () => {
   )
 }
 
-export default Article
+export default Feature
